@@ -1,0 +1,23 @@
+#RecipiesPicture
+{
+   width: 85%;
+   margin-top: 7%;
+   margin-left: 7.5%;
+   margin-right: 7.5%;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   gap: 48px; 
+}
+
+p
+{
+    font-weight: bold;
+}
+
+button
+{
+    background-color: rgba(255, 255, 255, 0);
+    margin-left: 0%;
+    margin-bottom: 1%;
+}

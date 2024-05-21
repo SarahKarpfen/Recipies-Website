@@ -1,0 +1,65 @@
+.Details
+{
+    margin-top: 5%;
+    margin-left: 65%;
+    direction: rtl;
+    width: 20%;
+}
+
+.IngredientsDiv
+{
+    margin-left: 15%;
+    margin-top: -37.3%;
+    direction: rtl;
+    width: 40%;
+}
+
+.BoldLabel
+{
+    font-weight: bold;
+}
+
+#TextInput
+{
+    margin-top: 0%;
+    text-align: right;
+}
+
+#IngredientsTextInput
+{
+    margin-top: 0%;
+    margin-bottom: 2%;
+    padding: 0.75%;
+    text-align: right;
+}
+
+
+#RadioButton
+{
+    display: flex;
+    align-items: center;
+}
+
+#RadioLable
+{
+    margin-right: 11%;
+}
+
+#AddIngredient
+{
+    width: 20%;
+    margin-right: 80%;
+    margin-top: 1%;
+    padding: 0.5%;
+    color: white;
+    background-color: black;
+}
+
+#AddRecipy
+{
+   width: 100%;
+   margin-right: 0%;
+}
+
+
+

@@ -1,0 +1,39 @@
+.DetailsWithOutIngredients
+{
+    margin-top: 5%;
+    margin-left: 38%;
+    width: 45%;
+    direction: rtl;
+}
+
+.IngredientsList
+{
+    width: 30%;
+    margin-top: -30.8%;
+    margin-left: 3%;
+}
+
+.Title
+{
+    font-size: 150%;
+    margin-bottom: 1%; 
+}
+
+#Picture
+{
+    width: 100%;
+}
+
+#Details
+{
+   font-size: large;
+   margin-top: 1%;
+}
+
+#Ingredients
+{
+    text-align: right;
+    direction: rtl;
+    font-weight: normal;
+}
+
